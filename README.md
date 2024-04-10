@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshua-Ludolf
 - 👀 I’m interested in Artificial Intelligence, Software Engineering, & Data Analytics.
-- 📫 How to reach me ->  Discord: JoshLL9
+- 📫 How to reach me ->  Discord: JoshLL9, Email: joshualudolf@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite color is cyan!
 
