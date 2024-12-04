@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joshua-Ludolf
-- 👀 I’m interested in Artificial Intelligence, Software Engineering, & Data Analytics.
+- 👀 I’m interested in Artificial Intelligence, Cybersecurity, Data Analytics, & Software Engineering!
 - 📫 How to reach me ->  Discord: JoshLL9, Email: joshualudolf@gmail.com
 - 😄 Pronouns: He/Him
 
