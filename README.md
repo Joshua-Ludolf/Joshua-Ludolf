@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joshua-Ludolf
+- 👋 Hi, I’m Joshua Ludolf
 - 👀 I’m interested in Artificial Intelligence, Cybersecurity, Data Analytics, & Software Engineering!
-- 📫 How to reach me ->  Discord: JoshLL9, Email: joshualudolf@gmail.com
+- 📫 How to reach me ->  joshualudolf@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
