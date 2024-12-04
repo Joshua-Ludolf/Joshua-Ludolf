@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua Ludolf
-- 👀 I’m interested in Artificial Intelligence, Cybersecurity, Data Analytics, & Software Engineering!
+- 👀 I’m interested in Artificial Intelligence 🤖, Cybersecurity 💻🔒, Data Analytics 📊, & Software Engineering🧑🏻‍💻!
 - 📫 How to reach me ->  joshualudolf@gmail.com
 - 😄 Pronouns: He/Him
 
