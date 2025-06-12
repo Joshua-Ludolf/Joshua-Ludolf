@@ -11,9 +11,9 @@ Hi there! I'm Joshua Ludolf, a passionate and dedicated software developer with 
 
 <b> Frameworks </b>: Django, Flask, JavaFX
 
-<b> Tools </b>: Git, VS Code, IntelliJ IDEA
+<b> Tools </b>: Git, Github, Github Copilot, VS Code, IntelliJ IDEA, Jupyter Notebook
 
-<b> Databases </b>: MySQL, SQL, etc.
+<b> Databases </b>: Neo4j, SQL, etc.
 
 Cloud: AWS, Azure
 
