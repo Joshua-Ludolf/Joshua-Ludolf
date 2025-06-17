@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="mailto:joshualudolf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/joshua-ludolf/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Joshua-Ludolf&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
