@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👋 Hi there! I'm Joshua Ludolf
 
-I'm a passionate and dedicated software developer with a keen interest in building innovative solutions and contributing to open-source projects.  
+Hi, I'm Joshua Ludolf, an aspiring software developer/artificial intelligence professional. I have a strong foundation in various technologies and am always eager to learn and explore new innovations. In my free time, I enjoy working on personal projects, contributing to open-source, and staying updated with the latest trends in technology.
 
 ---
 
