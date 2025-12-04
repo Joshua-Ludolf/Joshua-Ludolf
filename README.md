@@ -7,6 +7,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Joshua%20Ludolf&fontSize=36&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=60" alt="profile banner"/>
 </p>
 
+<div align="center">
+  
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Joshua-Ludolf&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+
+</div>
+
 <p align="center">
   <a href="mailto:joshualudolf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/joshua-ludolf/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -76,8 +82,12 @@ Hi, I'm Joshua Ludolf, an aspiring software developer/artificial intelligence pr
 - 📧 [Email](mailto:joshualudolf@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joshua-ludolf/)
 
+  
+## Programming Quotes 🧠
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+
+## Snake Game 🐍
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orangeXR/orangeXR/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrangeXR/OrangeXR/output/github-contribution-grid-snake.svg">
