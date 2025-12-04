@@ -76,6 +76,8 @@ Hi, I'm Joshua Ludolf, an aspiring software developer/artificial intelligence pr
 - 📧 [Email](mailto:joshualudolf@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joshua-ludolf/)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orangeXR/orangeXR/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrangeXR/OrangeXR/output/github-contribution-grid-snake.svg">
