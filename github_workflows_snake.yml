@@ -1,0 +1,28 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at 00:00 UTC
+  workflow_dispatch:    # allow manual runs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Joshua-Ludolf
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif
+            dist/snake-dark.gif?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
