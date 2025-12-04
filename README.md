@@ -76,5 +76,3 @@ Hi, I'm Joshua Ludolf, an aspiring software developer/artificial intelligence pr
 - 📧 [Email](mailto:joshualudolf@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joshua-ludolf/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Ludolf&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
