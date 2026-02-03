@@ -1,0 +1,25 @@
+name: Update Space Invaders Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: GitHub Space Shooter
+        uses: czl9707/gh-space-shooter@v1.0.1
+        with:
+          github-token: ${{ secrets.SPACE_INVADER_SECRET }}
+          output-path: 'game.gif'
+          strategy: 'random'
