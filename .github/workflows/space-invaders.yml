@@ -1,0 +1,2 @@
+- name: GitHub Space Shooter
+  uses: czl9707/gh-space-shooter@v1.0.1
