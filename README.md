@@ -13,10 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<p align="center">
-  <a href="mailto:joshualudolf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/joshua-ludolf/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+
 
 ---
 
@@ -77,10 +74,12 @@ Hi, I'm Joshua Ludolf, an aspiring software developer/artificial intelligence pr
 
 ---
 
-## 📫 Let's Connect!
+<h2 align="center">📫 Let's Connect!</h2> 
 
-- 📧 [Email](mailto:joshualudolf@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/joshua-ludolf/)
+<p align="center">
+  <a href="mailto:joshualudolf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joshua-ludolf/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
   
 ## Programming Quotes 🧠
