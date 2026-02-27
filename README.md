@@ -65,22 +65,6 @@ Hi, I'm Joshua Ludolf, an aspiring software developer/artificial intelligence pr
 - ⚡ Fun fact: My favorite color is turquoise  
 - 🎵 Hobbies: Playing videogames, watching movies, and exploring new tech
 
----
-
-## 📌 Pinned Projects
-
-- [FSA Benchmark Reproduction Research](https://github.com/Joshua-Ludolf/FSA-benchmarking-Reproduction-Research): This project aims to explore and benchmark various machine learning models for detecting disks at high risk of experiencing fail-slow anomalies.
-- [Promising Products](https://github.com/Joshua-Ludolf/Promising-Products): This project aims to provide solutions to common problems faced by customers using Frontier Internet's products.
-
----
-
-<h2 align="center">📫 Let's Connect!</h2> 
-
-<p align="center">
-  <a href="mailto:joshualudolf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/joshua-ludolf/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
   
 ## Programming Quotes 🧠
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
